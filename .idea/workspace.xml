@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843edd50-aecc-41af-a897-d60eba835e7f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/dev/spring/EchoIT.java" afterPath="$PROJECT_DIR$/src/test/java/com/dev/spring/EchoIT.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/dev/spring/EchoIT.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="77" />
+              <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -305,12 +304,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508125371835</updated>
       <workItem from="1508125375324" duration="7831000" />
-      <workItem from="1509014904428" duration="4392000" />
+      <workItem from="1509014904428" duration="4994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12223000" />
+    <option name="totallyTimeSpent" value="12825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dev/spring/EchoIT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="12" column="77" lean-forward="false" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="77" />
+          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

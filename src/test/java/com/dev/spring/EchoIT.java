@@ -10,6 +10,6 @@ public class EchoIT {
 
 	@Test
 	public void firstEchoTest() {
-		get("/echo/hello").then().assertThat().body("message", equalTo("hello"));
+		get("/echo/hello").then().assertThat().body("message", equalTo("hell"));
 	}
 }
